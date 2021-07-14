@@ -1,0 +1,1 @@
+Criação de uma 'biblioteca virtual' em JS com vários  livros onde se pode fazer o filtro por categoria de livro.
